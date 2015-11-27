@@ -1,0 +1,2522 @@
+					OOOOO
+
+<table class="wikitable sortable jquery-tablesorter" style="margin-top:0; text-align:center; font-size:90%;">
+<thead><tr>
+<th class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Team (IOC code)</th>
+<th style="background:#f2f2ce; width:3em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">? Summer</th>
+<th style="background:#f2f2ce; width:2em;" class="headerSort headerSortUp" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">01 !</span><span class="sorttext"><img alt="1st" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/16px-Gold_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/24px-Gold_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/32px-Gold_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="background:#f2f2ce; width:2em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">02 !</span><span class="sorttext"><img alt="2nd" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/16px-Silver_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/24px-Silver_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/32px-Silver_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="background:#f2f2ce; width:2em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">03 !</span><span class="sorttext"><img alt="3rd" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/16px-Bronze_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/24px-Bronze_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/32px-Bronze_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="background:#f2f2ce; width:3em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Total</th>
+<th style="background:#cedff2; width:3em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">? Winter</th>
+<th style="background:#cedff2; width:2em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">01 !</span><span class="sorttext"><img alt="1st" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/16px-Gold_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/24px-Gold_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/32px-Gold_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="background:#cedff2; width:2em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">02 !</span><span class="sorttext"><img alt="2nd" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/16px-Silver_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/24px-Silver_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/32px-Silver_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="background:#cedff2; width:2em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">03 !</span><span class="sorttext"><img alt="3rd" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/16px-Bronze_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/24px-Bronze_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/32px-Bronze_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="background:#cedff2; width:3em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Total</th>
+<th style="width:3em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">? Games</th>
+<th style="width:2em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">01 !</span><span class="sorttext"><img alt="1st" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/16px-Gold_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/24px-Gold_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gold_medal_icon.svg/32px-Gold_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="width:2em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">02 !</span><span class="sorttext"><img alt="2nd" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/16px-Silver_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/24px-Silver_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Silver_medal_icon.svg/32px-Silver_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="width:2em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending"><span style="display:none;" class="sortkey">03 !</span><span class="sorttext"><img alt="3rd" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/16px-Bronze_medal_icon.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/24px-Bronze_medal_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bronze_medal_icon.svg/32px-Bronze_medal_icon.svg.png 2x" data-file-width="16" data-file-height="16"></span></th>
+<th style="width:3.5em;" class="headerSort" tabindex="0" role="columnheader button" title="Sort ascending">Combined total</th>
+</tr></thead><tbody>
+
+<tr>
+<td align="left"><span id="USA"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" title="United States" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650">&nbsp;<a href="/wiki/United_States_at_the_Olympics" title="United States at the Olympics">United States</a>&nbsp;<span style="font-size:90%;">(USA)</span></span> <sup class="reference" id="ref_PPb"><a href="#endnote_PPb">[P]</a></sup> <sup class="reference" id="ref_QQb"><a href="#endnote_QQb">[Q]</a></sup> <sup class="reference" id="ref_RR"><a href="#endnote_RR">[R]</a></sup> <sup class="reference" id="ref_ZZm"><a href="#endnote_ZZm">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#f2f2ce;">976</td>
+<td style="background:#f2f2ce;">757</td>
+<td style="background:#f2f2ce;">666</td>
+<td style="background:#f2f2ce;">2399</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">96</td>
+<td style="background:#cedff2;">102</td>
+<td style="background:#cedff2;">83</td>
+<td style="background:#cedff2;">281</td>
+<td>48</td>
+<td>1072</td>
+<td>859</td>
+<td>749</td>
+<td>2680</td>
+</tr><tr>
+<td align="left"><span id="URS"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" title="Soviet Union" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Soviet_Union_at_the_Olympics" title="Soviet Union at the Olympics">Soviet Union</a>&nbsp;<span style="font-size:90%;">(URS)</span></i></span> <sup class="reference" id="ref_URSURS"><a href="#endnote_URSURS">[URS]</a></sup></td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">395</td>
+<td style="background:#f2f2ce;">319</td>
+<td style="background:#f2f2ce;">296</td>
+<td style="background:#f2f2ce;">1010</td>
+<td style="background:#cedff2;">9</td>
+<td style="background:#cedff2;">78</td>
+<td style="background:#cedff2;">57</td>
+<td style="background:#cedff2;">59</td>
+<td style="background:#cedff2;">194</td>
+<td>18</td>
+<td>473</td>
+<td>376</td>
+<td>355</td>
+<td>1204</td>
+</tr><tr>
+<td align="left"><span id="GBR"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/22px-Flag_of_the_United_Kingdom.svg.png" title="Great Britain" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/33px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/44px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Great_Britain_at_the_Olympics" title="Great Britain at the Olympics">Great Britain</a>&nbsp;<span style="font-size:90%;">(GBR)</span></span> <sup class="reference" id="ref_GBRGBR"><a href="#endnote_GBRGBR">[GBR]</a></sup> <sup class="reference" id="ref_ZZh"><a href="#endnote_ZZh">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">27</td>
+<td style="background:#f2f2ce;">236</td>
+<td style="background:#f2f2ce;">272</td>
+<td style="background:#f2f2ce;">272</td>
+<td style="background:#f2f2ce;">780</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">10</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">12</td>
+<td style="background:#cedff2;">26</td>
+<td>49</td>
+<td>246</td>
+<td>276</td>
+<td>284</td>
+<td>806</td>
+</tr><tr>
+<td align="left"><span id="FRA"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/22px-Flag_of_France.svg.png" title="France" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/33px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/44px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/France_at_the_Olympics" title="France at the Olympics">France</a>&nbsp;<span style="font-size:90%;">(FRA)</span></span> <sup class="reference" id="ref_OOa"><a href="#endnote_OOa">[O]</a></sup> <sup class="reference" id="ref_PPa"><a href="#endnote_PPa">[P]</a></sup> <sup class="reference" id="ref_ZZf"><a href="#endnote_ZZf">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">27</td>
+<td style="background:#f2f2ce;">202</td>
+<td style="background:#f2f2ce;">223</td>
+<td style="background:#f2f2ce;">246</td>
+<td style="background:#f2f2ce;">671</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">31</td>
+<td style="background:#cedff2;">31</td>
+<td style="background:#cedff2;">47</td>
+<td style="background:#cedff2;">109</td>
+<td>49</td>
+<td>233</td>
+<td>254</td>
+<td>293</td>
+<td>780</td>
+</tr><tr>
+<td align="left"><span id="CHN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/22px-Flag_of_the_People%27s_Republic_of_China.svg.png" title="China" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/33px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/44px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/China_at_the_Olympics" title="China at the Olympics">China</a>&nbsp;<span style="font-size:90%;">(CHN)</span></span> <sup class="reference" id="ref_CHNCHN"><a href="#endnote_CHNCHN">[CHN]</a></sup></td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">201</td>
+<td style="background:#f2f2ce;">145</td>
+<td style="background:#f2f2ce;">127</td>
+<td style="background:#f2f2ce;">473</td>
+<td style="background:#cedff2;">10</td>
+<td style="background:#cedff2;">12</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">19</td>
+<td style="background:#cedff2;">53</td>
+<td>19</td>
+<td>213</td>
+<td>167</td>
+<td>146</td>
+<td>526</td>
+</tr><tr>
+<td align="left"><span id="ITA"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/22px-Flag_of_Italy.svg.png" title="Italy" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/33px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/44px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;<a href="/wiki/Italy_at_the_Olympics" title="Italy at the Olympics">Italy</a>&nbsp;<span style="font-size:90%;">(ITA)</span></span> <sup class="reference" id="ref_MM"><a href="#endnote_MM">[M]</a></sup> <sup class="reference" id="ref_SS"><a href="#endnote_SS">[S]</a></sup></td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#f2f2ce;">198</td>
+<td style="background:#f2f2ce;">166</td>
+<td style="background:#f2f2ce;">185</td>
+<td style="background:#f2f2ce;">549</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">37</td>
+<td style="background:#cedff2;">34</td>
+<td style="background:#cedff2;">43</td>
+<td style="background:#cedff2;">114</td>
+<td>48</td>
+<td>235</td>
+<td>200</td>
+<td>228</td>
+<td>663</td>
+</tr><tr>
+<td align="left"><span id="GER"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" title="Germany" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;<a href="/wiki/Germany_at_the_Olympics" title="Germany at the Olympics">Germany</a>&nbsp;<span style="font-size:90%;">(GER)</span></span> <sup class="reference" id="ref_GERGER"><a href="#endnote_GERGER">[GER]</a></sup> <sup class="reference" id="ref_ZZg"><a href="#endnote_ZZg">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">174</td>
+<td style="background:#f2f2ce;">182</td>
+<td style="background:#f2f2ce;">217</td>
+<td style="background:#f2f2ce;">573</td>
+<td style="background:#cedff2;">11</td>
+<td style="background:#cedff2;">78</td>
+<td style="background:#cedff2;">78</td>
+<td style="background:#cedff2;">53</td>
+<td style="background:#cedff2;">209</td>
+<td>26</td>
+<td>252</td>
+<td>260</td>
+<td>270</td>
+<td>782</td>
+</tr><tr>
+<td align="left"><span id="HUN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/22px-Flag_of_Hungary.svg.png" title="Hungary" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/33px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/44px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Hungary_at_the_Olympics" title="Hungary at the Olympics">Hungary</a>&nbsp;<span style="font-size:90%;">(HUN)</span></span></td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#f2f2ce;">167</td>
+<td style="background:#f2f2ce;">144</td>
+<td style="background:#f2f2ce;">165</td>
+<td style="background:#f2f2ce;">476</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">6</td>
+<td>47</td>
+<td>167</td>
+<td>146</td>
+<td>169</td>
+<td>482</td>
+</tr><tr>
+<td align="left"><span id="GDR"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/22px-Flag_of_East_Germany.svg.png" title="East Germany" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/33px-Flag_of_East_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Flag_of_East_Germany.svg/44px-Flag_of_East_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;<a href="/wiki/East_Germany_at_the_Olympics" title="East Germany at the Olympics">East Germany</a>&nbsp;<span style="font-size:90%;">(GDR)</span></i></span> <sup class="reference" id="ref_GDRGDR"><a href="#endnote_GDRGDR">[GDR]</a></sup></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">153</td>
+<td style="background:#f2f2ce;">129</td>
+<td style="background:#f2f2ce;">127</td>
+<td style="background:#f2f2ce;">409</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">39</td>
+<td style="background:#cedff2;">36</td>
+<td style="background:#cedff2;">35</td>
+<td style="background:#cedff2;">110</td>
+<td>11</td>
+<td>192</td>
+<td>165</td>
+<td>162</td>
+<td>519</td>
+</tr><tr>
+<td align="left"><span id="SWE"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/22px-Flag_of_Sweden.svg.png" title="Sweden" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/33px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/44px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000">&nbsp;<a href="/wiki/Sweden_at_the_Olympics" title="Sweden at the Olympics">Sweden</a>&nbsp;<span style="font-size:90%;">(SWE)</span></span> <sup class="reference" id="ref_ZZl"><a href="#endnote_ZZl">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#f2f2ce;">143</td>
+<td style="background:#f2f2ce;">164</td>
+<td style="background:#f2f2ce;">176</td>
+<td style="background:#f2f2ce;">483</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">50</td>
+<td style="background:#cedff2;">40</td>
+<td style="background:#cedff2;">54</td>
+<td style="background:#cedff2;">144</td>
+<td>48</td>
+<td>193</td>
+<td>204</td>
+<td>230</td>
+<td>627</td>
+</tr><tr>
+<td align="left"><span id="AUS"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/22px-Flag_of_Australia.svg.png" title="Australia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/33px-Flag_of_Australia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b9/Flag_of_Australia.svg/44px-Flag_of_Australia.svg.png 2x" data-file-width="1280" data-file-height="640">&nbsp;<a href="/wiki/Australia_at_the_Olympics" title="Australia at the Olympics">Australia</a>&nbsp;<span style="font-size:90%;">(AUS)</span></span> <sup class="reference" id="ref_AUSAUS"><a href="#endnote_AUSAUS">[AUS]</a></sup> <sup class="reference" id="ref_ZZa"><a href="#endnote_ZZa">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#f2f2ce;">138</td>
+<td style="background:#f2f2ce;">153</td>
+<td style="background:#f2f2ce;">177</td>
+<td style="background:#f2f2ce;">468</td>
+<td style="background:#cedff2;">18</td>
+<td style="background:#cedff2;">5</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">12</td>
+<td>43</td>
+<td>143</td>
+<td>156</td>
+<td>181</td>
+<td>480</td>
+</tr><tr>
+<td align="left"><span id="RUS"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" title="Russia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Russia_at_the_Olympics" title="Russia at the Olympics">Russia</a>&nbsp;<span style="font-size:90%;">(RUS)</span></span> <sup class="reference" id="ref_RUSRUS"><a href="#endnote_RUSRUS">[RUS]</a></sup></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">133</td>
+<td style="background:#f2f2ce;">121</td>
+<td style="background:#f2f2ce;">142</td>
+<td style="background:#f2f2ce;">396</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">49</td>
+<td style="background:#cedff2;">40</td>
+<td style="background:#cedff2;">35</td>
+<td style="background:#cedff2;">124</td>
+<td>11</td>
+<td>182</td>
+<td>161</td>
+<td>177</td>
+<td>520</td>
+</tr><tr>
+<td align="left"><span id="JPN"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" title="Japan" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/33px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/44px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Japan_at_the_Olympics" title="Japan at the Olympics">Japan</a>&nbsp;<span style="font-size:90%;">(JPN)</span></span></td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#f2f2ce;">130</td>
+<td style="background:#f2f2ce;">126</td>
+<td style="background:#f2f2ce;">142</td>
+<td style="background:#f2f2ce;">398</td>
+<td style="background:#cedff2;">20</td>
+<td style="background:#cedff2;">10</td>
+<td style="background:#cedff2;">17</td>
+<td style="background:#cedff2;">18</td>
+<td style="background:#cedff2;">45</td>
+<td>41</td>
+<td>140</td>
+<td>143</td>
+<td>160</td>
+<td>443</td>
+</tr><tr>
+<td align="left"><span id="FIN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/22px-Flag_of_Finland.svg.png" title="Finland" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/33px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/44px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100">&nbsp;<a href="/wiki/Finland_at_the_Olympics" title="Finland at the Olympics">Finland</a>&nbsp;<span style="font-size:90%;">(FIN)</span></span></td>
+<td style="background:#f2f2ce;">24</td>
+<td style="background:#f2f2ce;">101</td>
+<td style="background:#f2f2ce;">84</td>
+<td style="background:#f2f2ce;">117</td>
+<td style="background:#f2f2ce;">302</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">42</td>
+<td style="background:#cedff2;">62</td>
+<td style="background:#cedff2;">57</td>
+<td style="background:#cedff2;">161</td>
+<td>46</td>
+<td>143</td>
+<td>146</td>
+<td>174</td>
+<td>463</td>
+</tr><tr>
+<td align="left"><span id="ROU"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/22px-Flag_of_Romania.svg.png" title="Romania" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/33px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/44px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;<a href="/wiki/Romania_at_the_Olympics" title="Romania at the Olympics">Romania</a>&nbsp;<span style="font-size:90%;">(ROU)</span></span></td>
+<td style="background:#f2f2ce;">20</td>
+<td style="background:#f2f2ce;">88</td>
+<td style="background:#f2f2ce;">94</td>
+<td style="background:#f2f2ce;">119</td>
+<td style="background:#f2f2ce;">301</td>
+<td style="background:#cedff2;">20</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">1</td>
+<td>40</td>
+<td>88</td>
+<td>94</td>
+<td>120</td>
+<td>302</td>
+</tr><tr>
+<td align="left"><span id="KOR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png" title="South Korea" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/33px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/44px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/South_Korea_at_the_Olympics" title="South Korea at the Olympics">South Korea</a>&nbsp;<span style="font-size:90%;">(KOR)</span></span></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">81</td>
+<td style="background:#f2f2ce;">82</td>
+<td style="background:#f2f2ce;">80</td>
+<td style="background:#f2f2ce;">243</td>
+<td style="background:#cedff2;">17</td>
+<td style="background:#cedff2;">26</td>
+<td style="background:#cedff2;">17</td>
+<td style="background:#cedff2;">10</td>
+<td style="background:#cedff2;">53</td>
+<td>33</td>
+<td>107</td>
+<td>99</td>
+<td>90</td>
+<td>296</td>
+</tr><tr>
+<td align="left"><span id="NED"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" title="Netherlands" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/33px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/44px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Netherlands_at_the_Olympics" title="Netherlands at the Olympics">Netherlands</a>&nbsp;<span style="font-size:90%;">(NED)</span></span> <sup class="reference" id="ref_ZZj"><a href="#endnote_ZZj">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#f2f2ce;">77</td>
+<td style="background:#f2f2ce;">85</td>
+<td style="background:#f2f2ce;">104</td>
+<td style="background:#f2f2ce;">266</td>
+<td style="background:#cedff2;">20</td>
+<td style="background:#cedff2;">37</td>
+<td style="background:#cedff2;">38</td>
+<td style="background:#cedff2;">35</td>
+<td style="background:#cedff2;">110</td>
+<td>45</td>
+<td>114</td>
+<td>123</td>
+<td>139</td>
+<td>376</td>
+</tr><tr>
+<td align="left"><span id="CUB"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/22px-Flag_of_Cuba.svg.png" title="Cuba" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/33px-Flag_of_Cuba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/44px-Flag_of_Cuba.svg.png 2x" data-file-width="800" data-file-height="400">&nbsp;<a href="/wiki/Cuba_at_the_Olympics" title="Cuba at the Olympics">Cuba</a>&nbsp;<span style="font-size:90%;">(CUB)</span></span> <sup class="reference" id="ref_ZZc"><a href="#endnote_ZZc">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">19</td>
+<td style="background:#f2f2ce;">72</td>
+<td style="background:#f2f2ce;">67</td>
+<td style="background:#f2f2ce;">70</td>
+<td style="background:#f2f2ce;">209</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>19</td>
+<td>72</td>
+<td>67</td>
+<td>70</td>
+<td>209</td>
+</tr><tr>
+<td align="left"><span id="POL"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/22px-Flag_of_Poland.svg.png" title="Poland" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/33px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/44px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800">&nbsp;<a href="/wiki/Poland_at_the_Olympics" title="Poland at the Olympics">Poland</a>&nbsp;<span style="font-size:90%;">(POL)</span></span></td>
+<td style="background:#f2f2ce;">20</td>
+<td style="background:#f2f2ce;">64</td>
+<td style="background:#f2f2ce;">82</td>
+<td style="background:#f2f2ce;">125</td>
+<td style="background:#f2f2ce;">271</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">20</td>
+<td>42</td>
+<td>70</td>
+<td>89</td>
+<td>132</td>
+<td>291</td>
+</tr><tr>
+<td align="left"><span id="CAN"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png" title="Canada" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/33px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/44px-Flag_of_Canada.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;<a href="/wiki/Canada_at_the_Olympics" title="Canada at the Olympics">Canada</a>&nbsp;<span style="font-size:90%;">(CAN)</span></span></td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#f2f2ce;">59</td>
+<td style="background:#f2f2ce;">99</td>
+<td style="background:#f2f2ce;">121</td>
+<td style="background:#f2f2ce;">279</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">62</td>
+<td style="background:#cedff2;">55</td>
+<td style="background:#cedff2;">53</td>
+<td style="background:#cedff2;">170</td>
+<td>47</td>
+<td>121</td>
+<td>154</td>
+<td>174</td>
+<td>449</td>
+</tr><tr>
+<td align="left"><span id="FRG"><i><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" title="West Germany" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/33px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/44px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;<a href="/wiki/West_Germany_at_the_Olympics" title="West Germany at the Olympics">West Germany</a>&nbsp;<span style="font-size:90%;">(FRG)</span></i></span> <sup class="reference" id="ref_FRGFRG"><a href="#endnote_FRGFRG">[FRG]</a></sup></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">56</td>
+<td style="background:#f2f2ce;">67</td>
+<td style="background:#f2f2ce;">81</td>
+<td style="background:#f2f2ce;">204</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">11</td>
+<td style="background:#cedff2;">15</td>
+<td style="background:#cedff2;">13</td>
+<td style="background:#cedff2;">39</td>
+<td>11</td>
+<td>67</td>
+<td>82</td>
+<td>94</td>
+<td>243</td>
+</tr><tr>
+<td align="left"><span id="NOR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/22px-Flag_of_Norway.svg.png" title="Norway" width="22" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/33px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/44px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800">&nbsp;<a href="/wiki/Norway_at_the_Olympics" title="Norway at the Olympics">Norway</a>&nbsp;<span style="font-size:90%;">(NOR)</span></span> <sup class="reference" id="ref_QQa"><a href="#endnote_QQa">[Q]</a></sup></td>
+<td style="background:#f2f2ce;">24</td>
+<td style="background:#f2f2ce;">56</td>
+<td style="background:#f2f2ce;">49</td>
+<td style="background:#f2f2ce;">43</td>
+<td style="background:#f2f2ce;">148</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">118</td>
+<td style="background:#cedff2;">111</td>
+<td style="background:#cedff2;">100</td>
+<td style="background:#cedff2;">329</td>
+<td>46</td>
+<td>174</td>
+<td>160</td>
+<td>143</td>
+<td>477</td>
+</tr><tr>
+<td align="left"><span id="BUL"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/22px-Flag_of_Bulgaria.svg.png" title="Bulgaria" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/33px-Flag_of_Bulgaria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/44px-Flag_of_Bulgaria.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;<a href="/wiki/Bulgaria_at_the_Olympics" title="Bulgaria at the Olympics">Bulgaria</a>&nbsp;<span style="font-size:90%;">(BUL)</span></span> <sup class="reference" id="ref_HH"><a href="#endnote_HH">[H]</a></sup></td>
+<td style="background:#f2f2ce;">19</td>
+<td style="background:#f2f2ce;">51</td>
+<td style="background:#f2f2ce;">85</td>
+<td style="background:#f2f2ce;">78</td>
+<td style="background:#f2f2ce;">214</td>
+<td style="background:#cedff2;">19</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">6</td>
+<td>38</td>
+<td>52</td>
+<td>87</td>
+<td>81</td>
+<td>220</td>
+</tr><tr>
+<td align="left"><span id="TCH"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png" title="Czechoslovakia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/33px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/44px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Czechoslovakia_at_the_Olympics" title="Czechoslovakia at the Olympics">Czechoslovakia</a>&nbsp;<span style="font-size:90%;">(TCH)</span></i></span> <sup class="reference" id="ref_TCHTCH"><a href="#endnote_TCHTCH">[TCH]</a></sup></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">49</td>
+<td style="background:#f2f2ce;">49</td>
+<td style="background:#f2f2ce;">45</td>
+<td style="background:#f2f2ce;">143</td>
+<td style="background:#cedff2;">16</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">8</td>
+<td style="background:#cedff2;">15</td>
+<td style="background:#cedff2;">25</td>
+<td>32</td>
+<td>51</td>
+<td>57</td>
+<td>60</td>
+<td>168</td>
+</tr><tr>
+<td align="left"><span id="SUI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/20px-Flag_of_Switzerland.svg.png" title="Switzerland" width="20" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/40px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000">&nbsp;<a href="/wiki/Switzerland_at_the_Olympics" title="Switzerland at the Olympics">Switzerland</a>&nbsp;<span style="font-size:90%;">(SUI)</span></span></td>
+<td style="background:#f2f2ce;">27</td>
+<td style="background:#f2f2ce;">47</td>
+<td style="background:#f2f2ce;">73</td>
+<td style="background:#f2f2ce;">65</td>
+<td style="background:#f2f2ce;">185</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">50</td>
+<td style="background:#cedff2;">40</td>
+<td style="background:#cedff2;">48</td>
+<td style="background:#cedff2;">138</td>
+<td>49</td>
+<td>97</td>
+<td>113</td>
+<td>113</td>
+<td>323</td>
+</tr><tr>
+<td align="left"><span id="EUN"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/22px-Olympic_flag.svg.png" title="Unified Team" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/33px-Olympic_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/44px-Olympic_flag.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Unified_Team_at_the_Olympics" title="Unified Team at the Olympics">Unified Team</a>&nbsp;<span style="font-size:90%;">(EUN)</span></i></span> <sup class="reference" id="ref_EUNEUN"><a href="#endnote_EUNEUN">[EUN]</a></sup></td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">45</td>
+<td style="background:#f2f2ce;">38</td>
+<td style="background:#f2f2ce;">29</td>
+<td style="background:#f2f2ce;">112</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">9</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">8</td>
+<td style="background:#cedff2;">23</td>
+<td>2</td>
+<td>54</td>
+<td>44</td>
+<td>37</td>
+<td>135</td>
+</tr><tr>
+<td align="left"><span id="DEN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/22px-Flag_of_Denmark.svg.png" title="Denmark" width="22" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/33px-Flag_of_Denmark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/44px-Flag_of_Denmark.svg.png 2x" data-file-width="370" data-file-height="280">&nbsp;<a href="/wiki/Denmark_at_the_Olympics" title="Denmark at the Olympics">Denmark</a>&nbsp;<span style="font-size:90%;">(DEN)</span></span> <sup class="reference" id="ref_ZZd"><a href="#endnote_ZZd">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#f2f2ce;">43</td>
+<td style="background:#f2f2ce;">68</td>
+<td style="background:#f2f2ce;">68</td>
+<td style="background:#f2f2ce;">179</td>
+<td style="background:#cedff2;">13</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">1</td>
+<td>39</td>
+<td>43</td>
+<td>69</td>
+<td>68</td>
+<td>180</td>
+</tr><tr>
+<td align="left"><span id="NZL"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/22px-Flag_of_New_Zealand.svg.png" title="New Zealand" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/33px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/44px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/New_Zealand_at_the_Olympics" title="New Zealand at the Olympics">New Zealand</a>&nbsp;<span style="font-size:90%;">(NZL)</span></span> <sup class="reference" id="ref_NZLNZL"><a href="#endnote_NZLNZL">[NZL]</a></sup></td>
+<td style="background:#f2f2ce;">22</td>
+<td style="background:#f2f2ce;">42</td>
+<td style="background:#f2f2ce;">18</td>
+<td style="background:#f2f2ce;">39</td>
+<td style="background:#f2f2ce;">99</td>
+<td style="background:#cedff2;">15</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">1</td>
+<td>37</td>
+<td>42</td>
+<td>19</td>
+<td>39</td>
+<td>100</td>
+</tr><tr>
+<td align="left"><span id="TUR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/22px-Flag_of_Turkey.svg.png" title="Turkey" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/33px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/44px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;<a href="/wiki/Turkey_at_the_Olympics" title="Turkey at the Olympics">Turkey</a>&nbsp;<span style="font-size:90%;">(TUR)</span></span></td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#f2f2ce;">39</td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#f2f2ce;">24</td>
+<td style="background:#f2f2ce;">88</td>
+<td style="background:#cedff2;">16</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>37</td>
+<td>39</td>
+<td>25</td>
+<td>24</td>
+<td>88</td>
+</tr><tr>
+<td align="left"><span id="BEL"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/22px-Flag_of_Belgium_%28civil%29.svg.png" title="Belgium" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/33px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/44px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300">&nbsp;<a href="/wiki/Belgium_at_the_Olympics" title="Belgium at the Olympics">Belgium</a>&nbsp;<span style="font-size:90%;">(BEL)</span></span></td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#f2f2ce;">37</td>
+<td style="background:#f2f2ce;">52</td>
+<td style="background:#f2f2ce;">53</td>
+<td style="background:#f2f2ce;">142</td>
+<td style="background:#cedff2;">20</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">5</td>
+<td>45</td>
+<td>38</td>
+<td>53</td>
+<td>56</td>
+<td>147</td>
+</tr><tr>
+<td align="left"><span id="ESP"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/22px-Flag_of_Spain.svg.png" title="Spain" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/33px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/44px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500">&nbsp;<a href="/wiki/Spain_at_the_Olympics" title="Spain at the Olympics">Spain</a>&nbsp;<span style="font-size:90%;">(ESP)</span></span> <sup class="reference" id="ref_ZZk"><a href="#endnote_ZZk">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">22</td>
+<td style="background:#f2f2ce;">37</td>
+<td style="background:#f2f2ce;">59</td>
+<td style="background:#f2f2ce;">35</td>
+<td style="background:#f2f2ce;">131</td>
+<td style="background:#cedff2;">19</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">2</td>
+<td>41</td>
+<td>38</td>
+<td>59</td>
+<td>36</td>
+<td>133</td>
+</tr><tr>
+<td align="left"><span id="UKR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/22px-Flag_of_Ukraine.svg.png" title="Ukraine" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/33px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/44px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;<a href="/wiki/Ukraine_at_the_Olympics" title="Ukraine at the Olympics">Ukraine</a>&nbsp;<span style="font-size:90%;">(UKR)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">33</td>
+<td style="background:#f2f2ce;">27</td>
+<td style="background:#f2f2ce;">55</td>
+<td style="background:#f2f2ce;">115</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">7</td>
+<td>11</td>
+<td>35</td>
+<td>28</td>
+<td>59</td>
+<td>122</td>
+</tr><tr>
+<td align="left"><span id="GRE"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/22px-Flag_of_Greece.svg.png" title="Greece" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/33px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/44px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;<a href="/wiki/Greece_at_the_Olympics" title="Greece at the Olympics">Greece</a>&nbsp;<span style="font-size:90%;">(GRE)</span></span> <sup class="reference" id="ref_ZZi"><a href="#endnote_ZZi">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">27</td>
+<td style="background:#f2f2ce;">30</td>
+<td style="background:#f2f2ce;">42</td>
+<td style="background:#f2f2ce;">39</td>
+<td style="background:#f2f2ce;">111</td>
+<td style="background:#cedff2;">18</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>45</td>
+<td>30</td>
+<td>42</td>
+<td>39</td>
+<td>111</td>
+</tr><tr>
+<td align="left"><span id="EUA"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_German_Olympic_Team_1960-1968.svg/22px-Flag_of_German_Olympic_Team_1960-1968.svg.png" title="Unified Team of Germany" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_German_Olympic_Team_1960-1968.svg/33px-Flag_of_German_Olympic_Team_1960-1968.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_German_Olympic_Team_1960-1968.svg/44px-Flag_of_German_Olympic_Team_1960-1968.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;<a href="/wiki/Unified_Team_of_Germany_at_the_Olympics" title="Unified Team of Germany at the Olympics" class="mw-redirect">Unified Team of Germany</a>&nbsp;<span style="font-size:90%;">(EUA)</span></i></span> <sup class="reference" id="ref_EUAEUA"><a href="#endnote_EUAEUA">[EUA]</a></sup></td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">28</td>
+<td style="background:#f2f2ce;">54</td>
+<td style="background:#f2f2ce;">36</td>
+<td style="background:#f2f2ce;">118</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">8</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">5</td>
+<td style="background:#cedff2;">19</td>
+<td>6</td>
+<td>36</td>
+<td>60</td>
+<td>41</td>
+<td>137</td>
+</tr><tr>
+<td align="left"><span id="YUG"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/22px-Flag_of_SFR_Yugoslavia.svg.png" title="Yugoslavia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/33px-Flag_of_SFR_Yugoslavia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_SFR_Yugoslavia.svg/44px-Flag_of_SFR_Yugoslavia.svg.png 2x" data-file-width="600" data-file-height="300">&nbsp;<a href="/wiki/Yugoslavia_at_the_Olympics" title="Yugoslavia at the Olympics">Yugoslavia</a>&nbsp;<span style="font-size:90%;">(YUG)</span></i></span> <sup class="reference" id="ref_YUGYUG"><a href="#endnote_YUGYUG">[YUG]</a></sup></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#f2f2ce;">29</td>
+<td style="background:#f2f2ce;">28</td>
+<td style="background:#f2f2ce;">83</td>
+<td style="background:#cedff2;">14</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">4</td>
+<td>30</td>
+<td>26</td>
+<td>32</td>
+<td>29</td>
+<td>87</td>
+</tr><tr>
+<td align="left"><span id="KEN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/22px-Flag_of_Kenya.svg.png" title="Kenya" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/33px-Flag_of_Kenya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/44px-Flag_of_Kenya.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Kenya_at_the_Olympics" title="Kenya at the Olympics">Kenya</a>&nbsp;<span style="font-size:90%;">(KEN)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#f2f2ce;">32</td>
+<td style="background:#f2f2ce;">29</td>
+<td style="background:#f2f2ce;">86</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>16</td>
+<td>25</td>
+<td>32</td>
+<td>29</td>
+<td>86</td>
+</tr><tr>
+<td align="left"><span id="BRA"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" title="Brazil" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/44px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;<a href="/wiki/Brazil_at_the_Olympics" title="Brazil at the Olympics">Brazil</a>&nbsp;<span style="font-size:90%;">(BRA)</span></span></td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#f2f2ce;">23</td>
+<td style="background:#f2f2ce;">30</td>
+<td style="background:#f2f2ce;">55</td>
+<td style="background:#f2f2ce;">108</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>28</td>
+<td>23</td>
+<td>30</td>
+<td>55</td>
+<td>108</td>
+</tr><tr>
+<td align="left"><span id="RSA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/22px-Flag_of_South_Africa.svg.png" title="South Africa" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/33px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/44px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/South_Africa_at_the_Olympics" title="South Africa at the Olympics">South Africa</a>&nbsp;<span style="font-size:90%;">(RSA)</span></span></td>
+<td style="background:#f2f2ce;">18</td>
+<td style="background:#f2f2ce;">23</td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#f2f2ce;">27</td>
+<td style="background:#f2f2ce;">76</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>24</td>
+<td>23</td>
+<td>26</td>
+<td>27</td>
+<td>76</td>
+</tr><tr>
+<td align="left"><span id="ETH"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/22px-Flag_of_Ethiopia.svg.png" title="Ethiopia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/33px-Flag_of_Ethiopia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/44px-Flag_of_Ethiopia.svg.png 2x" data-file-width="720" data-file-height="360">&nbsp;<a href="/wiki/Ethiopia_at_the_Olympics" title="Ethiopia at the Olympics">Ethiopia</a>&nbsp;<span style="font-size:90%;">(ETH)</span></span></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">17</td>
+<td style="background:#f2f2ce;">45</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>14</td>
+<td>21</td>
+<td>7</td>
+<td>17</td>
+<td>45</td>
+</tr><tr>
+<td align="left"><span id="ARG"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/22px-Flag_of_Argentina.svg.png" title="Argentina" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/33px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/44px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500">&nbsp;<a href="/wiki/Argentina_at_the_Olympics" title="Argentina at the Olympics">Argentina</a>&nbsp;<span style="font-size:90%;">(ARG)</span></span></td>
+<td style="background:#f2f2ce;">23</td>
+<td style="background:#f2f2ce;">18</td>
+<td style="background:#f2f2ce;">24</td>
+<td style="background:#f2f2ce;">28</td>
+<td style="background:#f2f2ce;">70</td>
+<td style="background:#cedff2;">18</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>41</td>
+<td>18</td>
+<td>24</td>
+<td>28</td>
+<td>70</td>
+</tr><tr>
+<td align="left"><span id="AUT"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/22px-Flag_of_Austria.svg.png" title="Austria" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/33px-Flag_of_Austria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/44px-Flag_of_Austria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Austria_at_the_Olympics" title="Austria at the Olympics">Austria</a>&nbsp;<span style="font-size:90%;">(AUT)</span></span></td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#f2f2ce;">18</td>
+<td style="background:#f2f2ce;">33</td>
+<td style="background:#f2f2ce;">35</td>
+<td style="background:#f2f2ce;">86</td>
+<td style="background:#cedff2;">22</td>
+<td style="background:#cedff2;">59</td>
+<td style="background:#cedff2;">78</td>
+<td style="background:#cedff2;">81</td>
+<td style="background:#cedff2;">218</td>
+<td>48</td>
+<td>77</td>
+<td>111</td>
+<td>116</td>
+<td>304</td>
+</tr><tr>
+<td align="left"><span id="JAM"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/22px-Flag_of_Jamaica.svg.png" title="Jamaica" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/33px-Flag_of_Jamaica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/44px-Flag_of_Jamaica.svg.png 2x" data-file-width="600" data-file-height="300">&nbsp;<a href="/wiki/Jamaica_at_the_Olympics" title="Jamaica at the Olympics">Jamaica</a>&nbsp;<span style="font-size:90%;">(JAM)</span></span> <sup class="reference" id="ref_JAMJAM"><a href="#endnote_JAMJAM">[JAM]</a></sup></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">17</td>
+<td style="background:#f2f2ce;">30</td>
+<td style="background:#f2f2ce;">20</td>
+<td style="background:#f2f2ce;">67</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>23</td>
+<td>17</td>
+<td>30</td>
+<td>20</td>
+<td>67</td>
+</tr><tr>
+<td align="left"><span id="KAZ"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/22px-Flag_of_Kazakhstan.svg.png" title="Kazakhstan" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/33px-Flag_of_Kazakhstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/44px-Flag_of_Kazakhstan.svg.png 2x" data-file-width="600" data-file-height="300">&nbsp;<a href="/wiki/Kazakhstan_at_the_Olympics" title="Kazakhstan at the Olympics">Kazakhstan</a>&nbsp;<span style="font-size:90%;">(KAZ)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">17</td>
+<td style="background:#f2f2ce;">19</td>
+<td style="background:#f2f2ce;">52</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">7</td>
+<td>11</td>
+<td>17</td>
+<td>20</td>
+<td>22</td>
+<td>59</td>
+</tr><tr>
+<td align="left"><span id="IRI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/22px-Flag_of_Iran.svg.png" title="Iran" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/33px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/44px-Flag_of_Iran.svg.png 2x" data-file-width="630" data-file-height="360">&nbsp;<a href="/wiki/Iran_at_the_Olympics" title="Iran at the Olympics">Iran</a>&nbsp;<span style="font-size:90%;">(IRI)</span></span> <sup class="reference" id="ref_KK"><a href="#endnote_KK">[K]</a></sup></td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">20</td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#f2f2ce;">60</td>
+<td style="background:#cedff2;">10</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>25</td>
+<td>15</td>
+<td>20</td>
+<td>25</td>
+<td>60</td>
+</tr><tr>
+<td align="left"><span id="CZE"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png" title="Czech Republic" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/33px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/44px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Czech_Republic_at_the_Olympics" title="Czech Republic at the Olympics">Czech Republic</a>&nbsp;<span style="font-size:90%;">(CZE)</span></span> <sup class="reference" id="ref_CZECZE"><a href="#endnote_CZECZE">[CZE]</a></sup></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">14</td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">44</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">9</td>
+<td style="background:#cedff2;">8</td>
+<td style="background:#cedff2;">24</td>
+<td>11</td>
+<td>21</td>
+<td>24</td>
+<td>23</td>
+<td>68</td>
+</tr><tr>
+<td align="left"><span id="PRK"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/22px-Flag_of_North_Korea.svg.png" title="North Korea" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/33px-Flag_of_North_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/44px-Flag_of_North_Korea.svg.png 2x" data-file-width="1600" data-file-height="800">&nbsp;<a href="/wiki/North_Korea_at_the_Olympics" title="North Korea at the Olympics">North Korea</a>&nbsp;<span style="font-size:90%;">(PRK)</span></span></td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">14</td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#f2f2ce;">47</td>
+<td style="background:#cedff2;">8</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">2</td>
+<td>17</td>
+<td>14</td>
+<td>13</td>
+<td>22</td>
+<td>49</td>
+</tr><tr>
+<td align="left"><span id="MEX"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/22px-Flag_of_Mexico.svg.png" title="Mexico" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/33px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/44px-Flag_of_Mexico.svg.png 2x" data-file-width="840" data-file-height="480">&nbsp;<a href="/wiki/Mexico_at_the_Olympics" title="Mexico at the Olympics">Mexico</a>&nbsp;<span style="font-size:90%;">(MEX)</span></span></td>
+<td style="background:#f2f2ce;">22</td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#f2f2ce;">28</td>
+<td style="background:#f2f2ce;">62</td>
+<td style="background:#cedff2;">8</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>30</td>
+<td>13</td>
+<td>21</td>
+<td>28</td>
+<td>62</td>
+</tr><tr>
+<td align="left"><span id="BLR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/22px-Flag_of_Belarus.svg.png" title="Belarus" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/33px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/44px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450">&nbsp;<a href="/wiki/Belarus_at_the_Olympics" title="Belarus at the Olympics">Belarus</a>&nbsp;<span style="font-size:90%;">(BLR)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">24</td>
+<td style="background:#f2f2ce;">39</td>
+<td style="background:#f2f2ce;">75</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">5</td>
+<td style="background:#cedff2;">15</td>
+<td>11</td>
+<td>18</td>
+<td>28</td>
+<td>44</td>
+<td>90</td>
+</tr><tr>
+<td align="left"><span id="EST"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/22px-Flag_of_Estonia.svg.png" title="Estonia" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/33px-Flag_of_Estonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/44px-Flag_of_Estonia.svg.png 2x" data-file-width="990" data-file-height="630">&nbsp;<a href="/wiki/Estonia_at_the_Olympics" title="Estonia at the Olympics">Estonia</a>&nbsp;<span style="font-size:90%;">(EST)</span></span></td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">33</td>
+<td style="background:#cedff2;">9</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">7</td>
+<td>20</td>
+<td>13</td>
+<td>11</td>
+<td>16</td>
+<td>40</td>
+</tr><tr>
+<td align="left"><span id="IND"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/22px-Flag_of_India.svg.png" title="India" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/33px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/44px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;<a href="/wiki/India_at_the_Olympics" title="India at the Olympics">India</a>&nbsp;<span style="font-size:90%;">(IND)</span></span> <sup class="reference" id="ref_FF"><a href="#endnote_FF">[F]</a></sup></td>
+<td style="background:#f2f2ce;">23</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#cedff2;">9</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>32</td>
+<td>9</td>
+<td>6</td>
+<td>11</td>
+<td>26</td>
+</tr><tr>
+<td align="left"><span id="IRL"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/22px-Flag_of_Ireland.svg.png" title="Ireland" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/33px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/44px-Flag_of_Ireland.svg.png 2x" data-file-width="600" data-file-height="300">&nbsp;<a href="/wiki/Ireland_at_the_Olympics" title="Ireland at the Olympics">Ireland</a>&nbsp;<span style="font-size:90%;">(IRL)</span></span></td>
+<td style="background:#f2f2ce;">20</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">28</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>26</td>
+<td>9</td>
+<td>8</td>
+<td>11</td>
+<td>28</td>
+</tr><tr>
+<td align="left"><span id="ZZX"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/22px-Olympic_flag.svg.png" title="Mixed team" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/33px-Olympic_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/44px-Olympic_flag.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Mixed_team_at_the_Olympics" title="Mixed team at the Olympics" class="mw-redirect">Mixed team</a>&nbsp;<span style="font-size:90%;">(ZZX)</span></i></span> <sup class="reference" id="ref_ZZXZZX"><a href="#endnote_ZZXZZX">[ZZX]</a></sup></td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">17</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>3</td>
+<td>8</td>
+<td>5</td>
+<td>4</td>
+<td>17</td>
+</tr><tr>
+<td align="left"><span id="EGY"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/22px-Flag_of_Egypt.svg.png" title="Egypt" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/33px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/44px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Egypt_at_the_Olympics" title="Egypt at the Olympics">Egypt</a>&nbsp;<span style="font-size:90%;">(EGY)</span></span> <sup class="reference" id="ref_EGYEGY"><a href="#endnote_EGYEGY">[EGY]</a></sup> <sup class="reference" id="ref_ZZe"><a href="#endnote_ZZe">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>22</td>
+<td>7</td>
+<td>9</td>
+<td>10</td>
+<td>26</td>
+</tr><tr>
+<td align="left"><span id="SVK"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/22px-Flag_of_Slovakia.svg.png" title="Slovakia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/33px-Flag_of_Slovakia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/44px-Flag_of_Slovakia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Slovakia_at_the_Olympics" title="Slovakia at the Olympics">Slovakia</a>&nbsp;<span style="font-size:90%;">(SVK)</span></span> <sup class="reference" id="ref_SVKSVK"><a href="#endnote_SVKSVK">[SVK]</a></sup></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">24</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">5</td>
+<td>11</td>
+<td>9</td>
+<td>11</td>
+<td>9</td>
+<td>29</td>
+</tr><tr>
+<td align="left"><span id="THA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/22px-Flag_of_Thailand.svg.png" title="Thailand" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/33px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/44px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Thailand_at_the_Olympics" title="Thailand at the Olympics">Thailand</a>&nbsp;<span style="font-size:90%;">(THA)</span></span></td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">24</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>18</td>
+<td>7</td>
+<td>6</td>
+<td>11</td>
+<td>24</td>
+</tr><tr>
+<td align="left"><span id="AZE"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/22px-Flag_of_Azerbaijan.svg.png" title="Azerbaijan" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/33px-Flag_of_Azerbaijan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/44px-Flag_of_Azerbaijan.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Azerbaijan_at_the_Olympics" title="Azerbaijan at the Olympics">Azerbaijan</a>&nbsp;<span style="font-size:90%;">(AZE)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">26</td>
+<td style="background:#cedff2;">5</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>10</td>
+<td>6</td>
+<td>5</td>
+<td>15</td>
+<td>26</td>
+</tr><tr>
+<td align="left"><span id="CRO"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/22px-Flag_of_Croatia.svg.png" title="Croatia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/33px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/44px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Croatia_at_the_Olympics" title="Croatia at the Olympics">Croatia</a>&nbsp;<span style="font-size:90%;">(CRO)</span></span></td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#f2f2ce;">23</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">11</td>
+<td>13</td>
+<td>10</td>
+<td>13</td>
+<td>11</td>
+<td>34</td>
+</tr><tr>
+<td align="left"><span id="GEO"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/22px-Flag_of_Georgia.svg.png" title="Georgia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/33px-Flag_of_Georgia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/44px-Flag_of_Georgia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Georgia_at_the_Olympics" title="Georgia at the Olympics">Georgia</a>&nbsp;<span style="font-size:90%;">(GEO)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">14</td>
+<td style="background:#f2f2ce;">25</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>11</td>
+<td>6</td>
+<td>5</td>
+<td>14</td>
+<td>25</td>
+</tr><tr>
+<td align="left"><span id="INA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/22px-Flag_of_Indonesia.svg.png" title="Indonesia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/33px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/44px-Flag_of_Indonesia.svg.png 2x" data-file-width="450" data-file-height="300">&nbsp;<a href="/wiki/Indonesia_at_the_Olympics" title="Indonesia at the Olympics">Indonesia</a>&nbsp;<span style="font-size:90%;">(INA)</span></span></td>
+<td style="background:#f2f2ce;">14</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">27</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>14</td>
+<td>6</td>
+<td>10</td>
+<td>11</td>
+<td>27</td>
+</tr><tr>
+<td align="left"><span id="LTU"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/22px-Flag_of_Lithuania.svg.png" title="Lithuania" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/33px-Flag_of_Lithuania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/44px-Flag_of_Lithuania.svg.png 2x" data-file-width="500" data-file-height="300">&nbsp;<a href="/wiki/Lithuania_at_the_Olympics" title="Lithuania at the Olympics">Lithuania</a>&nbsp;<span style="font-size:90%;">(LTU)</span></span></td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#cedff2;">8</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>16</td>
+<td>6</td>
+<td>5</td>
+<td>10</td>
+<td>21</td>
+</tr><tr>
+<td align="left"><span id="MAR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/22px-Flag_of_Morocco.svg.png" title="Morocco" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/33px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/44px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Morocco_at_the_Olympics" title="Morocco at the Olympics">Morocco</a>&nbsp;<span style="font-size:90%;">(MAR)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">22</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>19</td>
+<td>6</td>
+<td>5</td>
+<td>11</td>
+<td>22</td>
+</tr><tr>
+<td align="left"><span id="ALG"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/22px-Flag_of_Algeria.svg.png" title="Algeria" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/33px-Flag_of_Algeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/44px-Flag_of_Algeria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Algeria_at_the_Olympics" title="Algeria at the Olympics">Algeria</a>&nbsp;<span style="font-size:90%;">(ALG)</span></span></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>15</td>
+<td>5</td>
+<td>2</td>
+<td>8</td>
+<td>15</td>
+</tr><tr>
+<td align="left"><span id="BAH"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/22px-Flag_of_the_Bahamas.svg.png" title="Bahamas" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/33px-Flag_of_the_Bahamas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/44px-Flag_of_the_Bahamas.svg.png 2x" data-file-width="600" data-file-height="300">&nbsp;<a href="/wiki/Bahamas_at_the_Olympics" title="Bahamas at the Olympics">Bahamas</a>&nbsp;<span style="font-size:90%;">(BAH)</span></span></td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>15</td>
+<td>5</td>
+<td>2</td>
+<td>5</td>
+<td>12</td>
+</tr><tr>
+<td align="left"><span id="UZB"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/22px-Flag_of_Uzbekistan.svg.png" title="Uzbekistan" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/33px-Flag_of_Uzbekistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/44px-Flag_of_Uzbekistan.svg.png 2x" data-file-width="500" data-file-height="250">&nbsp;<a href="/wiki/Uzbekistan_at_the_Olympics" title="Uzbekistan at the Olympics">Uzbekistan</a>&nbsp;<span style="font-size:90%;">(UZB)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#f2f2ce;">20</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">1</td>
+<td>11</td>
+<td>6</td>
+<td>5</td>
+<td>10</td>
+<td>21</td>
+</tr><tr>
+<td align="left"><span id="POR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/22px-Flag_of_Portugal.svg.png" title="Portugal" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/33px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/44px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;<a href="/wiki/Portugal_at_the_Olympics" title="Portugal at the Olympics">Portugal</a>&nbsp;<span style="font-size:90%;">(POR)</span></span></td>
+<td style="background:#f2f2ce;">23</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">23</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>30</td>
+<td>4</td>
+<td>8</td>
+<td>11</td>
+<td>23</td>
+</tr><tr>
+<td align="left"><span id="SLO"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/22px-Flag_of_Slovenia.svg.png" title="Slovenia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/33px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/44px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Slovenia_at_the_Olympics" title="Slovenia at the Olympics">Slovenia</a>&nbsp;<span style="font-size:90%;">(SLO)</span></span></td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">19</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">9</td>
+<td style="background:#cedff2;">15</td>
+<td>13</td>
+<td>6</td>
+<td>10</td>
+<td>18</td>
+<td>34</td>
+</tr><tr>
+<td align="left"><span id="ANZ"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Australasian_team_for_Olympic_games.svg/22px-Flag_of_Australasian_team_for_Olympic_games.svg.png" title="Australasia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Australasian_team_for_Olympic_games.svg/33px-Flag_of_Australasian_team_for_Olympic_games.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Australasian_team_for_Olympic_games.svg/44px-Flag_of_Australasian_team_for_Olympic_games.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;<a href="/wiki/Australasia_at_the_Olympics" title="Australasia at the Olympics">Australasia</a>&nbsp;<span style="font-size:90%;">(ANZ)</span></i></span> <sup class="reference" id="ref_ANZANZ"><a href="#endnote_ANZANZ">[ANZ]</a></sup></td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>12</td>
+</tr><tr>
+<td align="left"><span id="CMR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/22px-Flag_of_Cameroon.svg.png" title="Cameroon" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/33px-Flag_of_Cameroon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/44px-Flag_of_Cameroon.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;<a href="/wiki/Cameroon_at_the_Olympics" title="Cameroon at the Olympics">Cameroon</a>&nbsp;<span style="font-size:90%;">(CMR)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>14</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+</tr><tr>
+<td align="left"><span id="DOM"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/22px-Flag_of_the_Dominican_Republic.svg.png" title="Dominican Republic" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/33px-Flag_of_the_Dominican_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/44px-Flag_of_the_Dominican_Republic.svg.png 2x" data-file-width="750" data-file-height="500">&nbsp;<a href="/wiki/Dominican_Republic_at_the_Olympics" title="Dominican Republic at the Olympics">Dominican Republic</a>&nbsp;<span style="font-size:90%;">(DOM)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>13</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>6</td>
+</tr><tr>
+<td align="left"><span id="LAT"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/22px-Flag_of_Latvia.svg.png" title="Latvia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/33px-Flag_of_Latvia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/44px-Flag_of_Latvia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Latvia_at_the_Olympics" title="Latvia at the Olympics">Latvia</a>&nbsp;<span style="font-size:90%;">(LAT)</span></span></td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">19</td>
+<td style="background:#cedff2;">10</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">7</td>
+<td>20</td>
+<td>3</td>
+<td>15</td>
+<td>8</td>
+<td>26</td>
+</tr><tr>
+<td align="left"><span id="NGR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/22px-Flag_of_Nigeria.svg.png" title="Nigeria" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/33px-Flag_of_Nigeria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/44px-Flag_of_Nigeria.svg.png 2x" data-file-width="2400" data-file-height="1200">&nbsp;<a href="/wiki/Nigeria_at_the_Olympics" title="Nigeria at the Olympics">Nigeria</a>&nbsp;<span style="font-size:90%;">(NGR)</span></span></td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">23</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>15</td>
+<td>3</td>
+<td>8</td>
+<td>12</td>
+<td>23</td>
+</tr><tr>
+<td align="left"><span id="PAK"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/22px-Flag_of_Pakistan.svg.png" title="Pakistan" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/33px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/44px-Flag_of_Pakistan.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Pakistan_at_the_Olympics" title="Pakistan at the Olympics">Pakistan</a>&nbsp;<span style="font-size:90%;">(PAK)</span></span></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>18</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>10</td>
+</tr><tr>
+<td align="left"><span id="TUN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/22px-Flag_of_Tunisia.svg.png" title="Tunisia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/33px-Flag_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/44px-Flag_of_Tunisia.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;<a href="/wiki/Tunisia_at_the_Olympics" title="Tunisia at the Olympics">Tunisia</a>&nbsp;<span style="font-size:90%;">(TUN)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>13</td>
+<td>3</td>
+<td>3</td>
+<td>4</td>
+<td>10</td>
+</tr><tr>
+<td align="left"><span id="ZIM"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/22px-Flag_of_Zimbabwe.svg.png" title="Zimbabwe" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/33px-Flag_of_Zimbabwe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/44px-Flag_of_Zimbabwe.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Zimbabwe_at_the_Olympics" title="Zimbabwe at the Olympics">Zimbabwe</a>&nbsp;<span style="font-size:90%;">(ZIM)</span></span> <sup class="reference" id="ref_ZIMZIM"><a href="#endnote_ZIMZIM">[ZIM]</a></sup></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>13</td>
+<td>3</td>
+<td>4</td>
+<td>1</td>
+<td>8</td>
+</tr><tr>
+<td align="left"><span id="CHI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/22px-Flag_of_Chile.svg.png" title="Chile" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/33px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/44px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;<a href="/wiki/Chile_at_the_Olympics" title="Chile at the Olympics">Chile</a>&nbsp;<span style="font-size:90%;">(CHI)</span></span> <sup class="reference" id="ref_II"><a href="#endnote_II">[I]</a></sup></td>
+<td style="background:#f2f2ce;">22</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#cedff2;">16</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>38</td>
+<td>2</td>
+<td>7</td>
+<td>4</td>
+<td>13</td>
+</tr><tr>
+<td align="left"><span id="COL"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/22px-Flag_of_Colombia.svg.png" title="Colombia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/33px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/44px-Flag_of_Colombia.svg.png 2x" data-file-width="450" data-file-height="300">&nbsp;<a href="/wiki/Colombia_at_the_Olympics" title="Colombia at the Olympics">Colombia</a>&nbsp;<span style="font-size:90%;">(COL)</span></span></td>
+<td style="background:#f2f2ce;">18</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">19</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>19</td>
+<td>2</td>
+<td>6</td>
+<td>11</td>
+<td>19</td>
+</tr><tr>
+<td align="left"><span id="MGL"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/22px-Flag_of_Mongolia.svg.png" title="Mongolia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/33px-Flag_of_Mongolia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/44px-Flag_of_Mongolia.svg.png 2x" data-file-width="4800" data-file-height="2400">&nbsp;<a href="/wiki/Mongolia_at_the_Olympics" title="Mongolia at the Olympics">Mongolia</a>&nbsp;<span style="font-size:90%;">(MGL)</span></span></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">24</td>
+<td style="background:#cedff2;">13</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>25</td>
+<td>2</td>
+<td>9</td>
+<td>13</td>
+<td>24</td>
+</tr><tr>
+<td align="left"><span id="SCG"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/22px-Flag_of_Serbia_and_Montenegro.svg.png" title="Serbia and Montenegro" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/33px-Flag_of_Serbia_and_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Serbia_and_Montenegro.svg/44px-Flag_of_Serbia_and_Montenegro.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Serbia_and_Montenegro_at_the_Olympics" title="Serbia and Montenegro at the Olympics">Serbia and Montenegro</a>&nbsp;<span style="font-size:90%;">(SCG)</span></i></span> <sup class="reference" id="ref_SCGSCG"><a href="#endnote_SCGSCG">[SCG]</a></sup></td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>6</td>
+<td>2</td>
+<td>4</td>
+<td>3</td>
+<td>9</td>
+</tr><tr>
+<td align="left"><span id="TPE"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/22px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png" title="Chinese Taipei" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/33px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg/44px-Flag_of_Chinese_Taipei_for_Olympic_games.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Chinese_Taipei_at_the_Olympics" title="Chinese Taipei at the Olympics">Chinese Taipei</a>&nbsp;<span style="font-size:90%;">(TPE)</span></span> <sup class="reference" id="ref_TPETPE"><a href="#endnote_TPETPE">[TPE]</a></sup> <sup class="reference" id="ref_TPE2TPE2"><a href="#endnote_TPE2TPE2">[TPE2]</a></sup></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">21</td>
+<td style="background:#cedff2;">11</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>24</td>
+<td>2</td>
+<td>7</td>
+<td>12</td>
+<td>21</td>
+</tr><tr>
+<td align="left"><span id="TRI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/22px-Flag_of_Trinidad_and_Tobago.svg.png" title="Trinidad and Tobago" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/33px-Flag_of_Trinidad_and_Tobago.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/44px-Flag_of_Trinidad_and_Tobago.svg.png 2x" data-file-width="800" data-file-height="480">&nbsp;<a href="/wiki/Trinidad_and_Tobago_at_the_Olympics" title="Trinidad and Tobago at the Olympics">Trinidad and Tobago</a>&nbsp;<span style="font-size:90%;">(TRI)</span></span> <sup class="reference" id="ref_TRITRI"><a href="#endnote_TRITRI">[TRI]</a></sup></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">18</td>
+<td style="background:#cedff2;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>19</td>
+<td>2</td>
+<td>5</td>
+<td>11</td>
+<td>18</td>
+</tr><tr>
+<td align="left"><span id="UGA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/22px-Flag_of_Uganda.svg.png" title="Uganda" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/33px-Flag_of_Uganda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/44px-Flag_of_Uganda.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Uganda_at_the_Olympics" title="Uganda at the Olympics">Uganda</a>&nbsp;<span style="font-size:90%;">(UGA)</span></span></td>
+<td style="background:#f2f2ce;">14</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>14</td>
+<td>2</td>
+<td>3</td>
+<td>2</td>
+<td>7</td>
+</tr><tr>
+<td align="left"><span id="URU"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/22px-Flag_of_Uruguay.svg.png" title="Uruguay" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/33px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/44px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Uruguay_at_the_Olympics" title="Uruguay at the Olympics">Uruguay</a>&nbsp;<span style="font-size:90%;">(URU)</span></span></td>
+<td style="background:#f2f2ce;">20</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>21</td>
+<td>2</td>
+<td>2</td>
+<td>6</td>
+<td>10</td>
+</tr><tr>
+<td align="left"><span id="VEN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/22px-Flag_of_Venezuela.svg.png" title="Venezuela" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/33px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/44px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Venezuela_at_the_Olympics" title="Venezuela at the Olympics">Venezuela</a>&nbsp;<span style="font-size:90%;">(VEN)</span></span></td>
+<td style="background:#f2f2ce;">17</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>21</td>
+<td>2</td>
+<td>2</td>
+<td>8</td>
+<td>12</td>
+</tr><tr>
+<td align="left"><span id="ARM"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/22px-Flag_of_Armenia.svg.png" title="Armenia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/33px-Flag_of_Armenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/44px-Flag_of_Armenia.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Armenia_at_the_Olympics" title="Armenia at the Olympics">Armenia</a>&nbsp;<span style="font-size:90%;">(ARM)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>11</td>
+<td>1</td>
+<td>2</td>
+<td>9</td>
+<td>12</td>
+</tr><tr>
+<td align="left"><span id="BDI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/22px-Flag_of_Burundi.svg.png" title="Burundi" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/33px-Flag_of_Burundi.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/44px-Flag_of_Burundi.svg.png 2x" data-file-width="500" data-file-height="300">&nbsp;<a href="/wiki/Burundi_at_the_Olympics" title="Burundi at the Olympics">Burundi</a>&nbsp;<span style="font-size:90%;">(BDI)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>5</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="CRC"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/22px-Flag_of_Costa_Rica_%28state%29.svg.png" title="Costa Rica" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/33px-Flag_of_Costa_Rica_%28state%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/44px-Flag_of_Costa_Rica_%28state%29.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;<a href="/wiki/Costa_Rica_at_the_Olympics" title="Costa Rica at the Olympics">Costa Rica</a>&nbsp;<span style="font-size:90%;">(CRC)</span></span></td>
+<td style="background:#f2f2ce;">14</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>20</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="ECU"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/22px-Flag_of_Ecuador.svg.png" title="Ecuador" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/33px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/44px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960">&nbsp;<a href="/wiki/Ecuador_at_the_Olympics" title="Ecuador at the Olympics">Ecuador</a>&nbsp;<span style="font-size:90%;">(ECU)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>13</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="GRN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/22px-Flag_of_Grenada.svg.png" title="Grenada" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/33px-Flag_of_Grenada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/44px-Flag_of_Grenada.svg.png 2x" data-file-width="600" data-file-height="360">&nbsp;<a href="/wiki/Grenada_at_the_Olympics" title="Grenada at the Olympics">Grenada</a>&nbsp;<span style="font-size:90%;">(GRN)</span></span></td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="HKG"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/22px-Flag_of_Hong_Kong.svg.png" title="Hong Kong" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/33px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/44px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Hong_Kong_at_the_Olympics" title="Hong Kong at the Olympics">Hong Kong</a>&nbsp;<span style="font-size:90%;">(HKG)</span></span> <sup class="reference" id="ref_HKGHKG"><a href="#endnote_HKGHKG">[HKG]</a></sup></td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>19</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr><tr>
+<td align="left"><span id="ISR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/22px-Flag_of_Israel.svg.png" title="Israel" width="22" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/33px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/44px-Flag_of_Israel.svg.png 2x" data-file-width="660" data-file-height="480">&nbsp;<a href="/wiki/Israel_at_the_Olympics" title="Israel at the Olympics">Israel</a>&nbsp;<span style="font-size:90%;">(ISR)</span></span></td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>21</td>
+<td>1</td>
+<td>1</td>
+<td>5</td>
+<td>7</td>
+</tr><tr>
+<td align="left"><span id="LUX"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/22px-Flag_of_Luxembourg.svg.png" title="Luxembourg" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/33px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/44px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;<a href="/wiki/Luxembourg_at_the_Olympics" title="Luxembourg at the Olympics">Luxembourg</a>&nbsp;<span style="font-size:90%;">(LUX)</span></span> <sup class="reference" id="ref_OOb"><a href="#endnote_OOb">[O]</a></sup></td>
+<td style="background:#f2f2ce;">22</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">8</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">2</td>
+<td>30</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="MOZ"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/22px-Flag_of_Mozambique.svg.png" title="Mozambique" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/33px-Flag_of_Mozambique.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/44px-Flag_of_Mozambique.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Mozambique_at_the_Olympics" title="Mozambique at the Olympics">Mozambique</a>&nbsp;<span style="font-size:90%;">(MOZ)</span></span></td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>9</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="PAN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/22px-Flag_of_Panama.svg.png" title="Panama" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/33px-Flag_of_Panama.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/44px-Flag_of_Panama.svg.png 2x" data-file-width="450" data-file-height="300">&nbsp;<a href="/wiki/Panama_at_the_Olympics" title="Panama at the Olympics">Panama</a>&nbsp;<span style="font-size:90%;">(PAN)</span></span></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>16</td>
+<td>1</td>
+<td>0</td>
+<td>2</td>
+<td>3</td>
+</tr><tr>
+<td align="left"><span id="PER"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/22px-Flag_of_Peru.svg.png" title="Peru" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/33px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/44px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Peru_at_the_Olympics" title="Peru at the Olympics">Peru</a>&nbsp;<span style="font-size:90%;">(PER)</span></span> <sup class="reference" id="ref_LL"><a href="#endnote_LL">[L]</a></sup></td>
+<td style="background:#f2f2ce;">17</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>19</td>
+<td>1</td>
+<td>3</td>
+<td>0</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="RU1"><i><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" title="Russian Empire" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Russian_Empire_at_the_Olympics" title="Russian Empire at the Olympics">Russian Empire</a>&nbsp;<span style="font-size:90%;">(RU1)</span></i></span> <sup class="reference" id="ref_RU1RU1"><a href="#endnote_RU1RU1">[RU1]</a></sup></td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>3</td>
+<td>1</td>
+<td>4</td>
+<td>3</td>
+<td>8</td>
+</tr><tr>
+<td align="left"><span id="SRB"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/22px-Flag_of_Serbia.svg.png" title="Serbia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/33px-Flag_of_Serbia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/44px-Flag_of_Serbia.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;<a href="/wiki/Serbia_at_the_Olympics" title="Serbia at the Olympics">Serbia</a>&nbsp;<span style="font-size:90%;">(SRB)</span></span> <sup class="reference" id="ref_SRBSRB"><a href="#endnote_SRBSRB">[SRB]</a></sup></td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td>4</td>
+<td>7</td>
+</tr><tr>
+<td align="left"><span id="SUR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/22px-Flag_of_Suriname.svg.png" title="Suriname" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/33px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/44px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Suriname_at_the_Olympics" title="Suriname at the Olympics">Suriname</a>&nbsp;<span style="font-size:90%;">(SUR)</span></span> <sup class="reference" id="ref_EE"><a href="#endnote_EE">[E]</a></sup></td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>11</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="SYR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/22px-Flag_of_Syria.svg.png" title="Syria" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/33px-Flag_of_Syria.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/44px-Flag_of_Syria.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Syria_at_the_Olympics" title="Syria at the Olympics">Syria</a>&nbsp;<span style="font-size:90%;">(SYR)</span></span></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>12</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3</td>
+</tr><tr>
+<td align="left"><span id="UAE"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/22px-Flag_of_the_United_Arab_Emirates.svg.png" title="United Arab Emirates" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/33px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/44px-Flag_of_the_United_Arab_Emirates.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/United_Arab_Emirates_at_the_Olympics" title="United Arab Emirates at the Olympics">United Arab Emirates</a>&nbsp;<span style="font-size:90%;">(UAE)</span></span></td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>8</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="AFG"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/22px-Flag_of_Afghanistan.svg.png" title="Afghanistan" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/33px-Flag_of_Afghanistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/44px-Flag_of_Afghanistan.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;<a href="/wiki/Afghanistan_at_the_Olympics" title="Afghanistan at the Olympics">Afghanistan</a>&nbsp;<span style="font-size:90%;">(AFG)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="BRN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/22px-Flag_of_Bahrain.svg.png" title="Bahrain" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/33px-Flag_of_Bahrain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/44px-Flag_of_Bahrain.svg.png 2x" data-file-width="1500" data-file-height="900">&nbsp;<a href="/wiki/Bahrain_at_the_Olympics" title="Bahrain at the Olympics">Bahrain</a>&nbsp;<span style="font-size:90%;">(BRN)</span></span></td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="BAR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/22px-Flag_of_Barbados.svg.png" title="Barbados" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/33px-Flag_of_Barbados.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/44px-Flag_of_Barbados.svg.png 2x" data-file-width="1500" data-file-height="1000">&nbsp;<a href="/wiki/Barbados_at_the_Olympics" title="Barbados at the Olympics">Barbados</a>&nbsp;<span style="font-size:90%;">(BAR)</span></span> <sup class="reference" id="ref_BARBAR"><a href="#endnote_BARBAR">[BAR]</a></sup></td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="BER"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/22px-Flag_of_Bermuda.svg.png" title="Bermuda" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/33px-Flag_of_Bermuda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/44px-Flag_of_Bermuda.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Bermuda_at_the_Olympics" title="Bermuda at the Olympics">Bermuda</a>&nbsp;<span style="font-size:90%;">(BER)</span></span></td>
+<td style="background:#f2f2ce;">17</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>24</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="BOH"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Bohemia.svg/22px-Flag_of_Bohemia.svg.png" title="Bohemia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Bohemia.svg/33px-Flag_of_Bohemia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Bohemia.svg/44px-Flag_of_Bohemia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Bohemia_at_the_Olympics" title="Bohemia at the Olympics">Bohemia</a>&nbsp;<span style="font-size:90%;">(BOH)</span></i></span> <sup class="reference" id="ref_BOHBOH"><a href="#endnote_BOHBOH">[BOH]</a></sup> <sup class="reference" id="ref_ZZb"><a href="#endnote_ZZb">[Z]</a></sup></td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="BOT"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/22px-Flag_of_Botswana.svg.png" title="Botswana" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/33px-Flag_of_Botswana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/44px-Flag_of_Botswana.svg.png 2x" data-file-width="1200" data-file-height="800">&nbsp;<a href="/wiki/Botswana_at_the_Olympics" title="Botswana at the Olympics">Botswana</a>&nbsp;<span style="font-size:90%;">(BOT)</span></span></td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>9</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="BWI"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_the_West_Indies_Federation.svg/22px-Flag_of_the_West_Indies_Federation.svg.png" title="British West Indies" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_the_West_Indies_Federation.svg/33px-Flag_of_the_West_Indies_Federation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_the_West_Indies_Federation.svg/44px-Flag_of_the_West_Indies_Federation.svg.png 2x" data-file-width="632" data-file-height="316">&nbsp;<a href="/wiki/British_West_Indies_at_the_1960_Summer_Olympics" title="British West Indies at the 1960 Summer Olympics">British West Indies</a>&nbsp;<span style="font-size:90%;">(BWI)</span></i></span> <sup class="reference" id="ref_BWIBWI"><a href="#endnote_BWIBWI">[BWI]</a></sup></td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="CIV"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/22px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png" title="Ivory Coast" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/33px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/44px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png 2x" data-file-width="450" data-file-height="300">&nbsp;<a href="/wiki/Ivory_Coast_at_the_Olympics" title="Ivory Coast at the Olympics">Ivory Coast</a>&nbsp;<span style="font-size:90%;">(CIV)</span></span> <sup class="reference" id="ref_CIVCIV"><a href="#endnote_CIVCIV">[CIV]</a></sup></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>12</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="CYP"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/22px-Flag_of_Cyprus.svg.png" title="Cyprus" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/33px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/44px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Cyprus_at_the_Olympics" title="Cyprus at the Olympics">Cyprus</a>&nbsp;<span style="font-size:90%;">(CYP)</span></span></td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">10</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>19</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="DJI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/22px-Flag_of_Djibouti.svg.png" title="Djibouti" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/33px-Flag_of_Djibouti.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/44px-Flag_of_Djibouti.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;<a href="/wiki/Djibouti_at_the_Olympics" title="Djibouti at the Olympics">Djibouti</a>&nbsp;<span style="font-size:90%;">(DJI)</span></span> <sup class="reference" id="ref_BB"><a href="#endnote_BB">[B]</a></sup></td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>7</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="ERI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/22px-Flag_of_Eritrea.svg.png" title="Eritrea" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/33px-Flag_of_Eritrea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/44px-Flag_of_Eritrea.svg.png 2x" data-file-width="1000" data-file-height="500">&nbsp;<a href="/wiki/Eritrea_at_the_Olympics" title="Eritrea at the Olympics">Eritrea</a>&nbsp;<span style="font-size:90%;">(ERI)</span></span></td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="GAB"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/22px-Flag_of_Gabon.svg.png" title="Gabon" width="22" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/33px-Flag_of_Gabon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/44px-Flag_of_Gabon.svg.png 2x" data-file-width="400" data-file-height="300">&nbsp;<a href="/wiki/Gabon_at_the_Olympics" title="Gabon at the Olympics">Gabon</a>&nbsp;<span style="font-size:90%;">(GAB)</span></span></td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>9</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="GHA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/22px-Flag_of_Ghana.svg.png" title="Ghana" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/33px-Flag_of_Ghana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/44px-Flag_of_Ghana.svg.png 2x" data-file-width="450" data-file-height="300">&nbsp;<a href="/wiki/Ghana_at_the_Olympics" title="Ghana at the Olympics">Ghana</a>&nbsp;<span style="font-size:90%;">(GHA)</span></span> <sup class="reference" id="ref_GHAGHA"><a href="#endnote_GHAGHA">[GHA]</a></sup></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>14</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="GUA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/22px-Flag_of_Guatemala.svg.png" title="Guatemala" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/33px-Flag_of_Guatemala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/44px-Flag_of_Guatemala.svg.png 2x" data-file-width="960" data-file-height="600">&nbsp;<a href="/wiki/Guatemala_at_the_Olympics" title="Guatemala at the Olympics">Guatemala</a>&nbsp;<span style="font-size:90%;">(GUA)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>14</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="GUY"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/22px-Flag_of_Guyana.svg.png" title="Guyana" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/33px-Flag_of_Guyana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/44px-Flag_of_Guyana.svg.png 2x" data-file-width="500" data-file-height="300">&nbsp;<a href="/wiki/Guyana_at_the_Olympics" title="Guyana at the Olympics">Guyana</a>&nbsp;<span style="font-size:90%;">(GUY)</span></span> <sup class="reference" id="ref_GUYGUY"><a href="#endnote_GUYGUY">[GUY]</a></sup></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>16</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="HAI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/22px-Flag_of_Haiti.svg.png" title="Haiti" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/33px-Flag_of_Haiti.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/44px-Flag_of_Haiti.svg.png 2x" data-file-width="500" data-file-height="300">&nbsp;<a href="/wiki/Haiti_at_the_Olympics" title="Haiti at the Olympics">Haiti</a>&nbsp;<span style="font-size:90%;">(HAI)</span></span> <sup class="reference" id="ref_JJ"><a href="#endnote_JJ">[J]</a></sup></td>
+<td style="background:#f2f2ce;">14</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>14</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="ISL"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/22px-Flag_of_Iceland.svg.png" title="Iceland" width="22" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/33px-Flag_of_Iceland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/44px-Flag_of_Iceland.svg.png 2x" data-file-width="2500" data-file-height="1800">&nbsp;<a href="/wiki/Iceland_at_the_Olympics" title="Iceland at the Olympics">Iceland</a>&nbsp;<span style="font-size:90%;">(ISL)</span></span></td>
+<td style="background:#f2f2ce;">19</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">17</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>36</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="IRQ"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/22px-Flag_of_Iraq.svg.png" title="Iraq" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/33px-Flag_of_Iraq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/44px-Flag_of_Iraq.svg.png 2x" data-file-width="411" data-file-height="274">&nbsp;<a href="/wiki/Iraq_at_the_Olympics" title="Iraq at the Olympics">Iraq</a>&nbsp;<span style="font-size:90%;">(IRQ)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>13</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="KUW"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/22px-Flag_of_Kuwait.svg.png" title="Kuwait" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/33px-Flag_of_Kuwait.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/44px-Flag_of_Kuwait.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Kuwait_at_the_Olympics" title="Kuwait at the Olympics">Kuwait</a>&nbsp;<span style="font-size:90%;">(KUW)</span></span></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>12</td>
+<td>0</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="KGZ"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/22px-Flag_of_Kyrgyzstan.svg.png" title="Kyrgyzstan" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/33px-Flag_of_Kyrgyzstan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/44px-Flag_of_Kyrgyzstan.svg.png 2x" data-file-width="750" data-file-height="450">&nbsp;<a href="/wiki/Kyrgyzstan_at_the_Olympics" title="Kyrgyzstan at the Olympics">Kyrgyzstan</a>&nbsp;<span style="font-size:90%;">(KGZ)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>11</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr><tr>
+<td align="left"><span id="LIB"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/22px-Flag_of_Lebanon.svg.png" title="Lebanon" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/33px-Flag_of_Lebanon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/44px-Flag_of_Lebanon.svg.png 2x" data-file-width="750" data-file-height="500">&nbsp;<a href="/wiki/Lebanon_at_the_Olympics" title="Lebanon at the Olympics">Lebanon</a>&nbsp;<span style="font-size:90%;">(LIB)</span></span></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">16</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>32</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="LIE"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/22px-Flag_of_Liechtenstein.svg.png" title="Liechtenstein" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/33px-Flag_of_Liechtenstein.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/44px-Flag_of_Liechtenstein.svg.png 2x" data-file-width="1000" data-file-height="600">&nbsp;<a href="/wiki/Liechtenstein_at_the_Olympics" title="Liechtenstein at the Olympics">Liechtenstein</a>&nbsp;<span style="font-size:90%;">(LIE)</span></span></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#cedff2;">18</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">5</td>
+<td style="background:#cedff2;">9</td>
+<td>34</td>
+<td>2</td>
+<td>2</td>
+<td>5</td>
+<td>9</td>
+</tr><tr>
+<td align="left"><span id="MKD"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/22px-Flag_of_Macedonia.svg.png" title="Macedonia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/33px-Flag_of_Macedonia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/44px-Flag_of_Macedonia.svg.png 2x" data-file-width="1400" data-file-height="700">&nbsp;<a href="/wiki/Macedonia_at_the_Olympics" title="Macedonia at the Olympics">Macedonia</a>&nbsp;<span style="font-size:90%;">(MKD)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">5</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="MAS"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/22px-Flag_of_Malaysia.svg.png" title="Malaysia" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/33px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/44px-Flag_of_Malaysia.svg.png 2x" data-file-width="2800" data-file-height="1400">&nbsp;<a href="/wiki/Malaysia_at_the_Olympics" title="Malaysia at the Olympics">Malaysia</a>&nbsp;<span style="font-size:90%;">(MAS)</span></span> <sup class="reference" id="ref_MASMAS"><a href="#endnote_MASMAS">[MAS]</a></sup></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>12</td>
+<td>0</td>
+<td>3</td>
+<td>3</td>
+<td>6</td>
+</tr><tr>
+<td align="left"><span id="MRI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/22px-Flag_of_Mauritius.svg.png" title="Mauritius" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/33px-Flag_of_Mauritius.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/44px-Flag_of_Mauritius.svg.png 2x" data-file-width="450" data-file-height="300">&nbsp;<a href="/wiki/Mauritius_at_the_Olympics" title="Mauritius at the Olympics">Mauritius</a>&nbsp;<span style="font-size:90%;">(MRI)</span></span></td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="MDA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/22px-Flag_of_Moldova.svg.png" title="Moldova" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/33px-Flag_of_Moldova.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/44px-Flag_of_Moldova.svg.png 2x" data-file-width="1800" data-file-height="900">&nbsp;<a href="/wiki/Moldova_at_the_Olympics" title="Moldova at the Olympics">Moldova</a>&nbsp;<span style="font-size:90%;">(MDA)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>11</td>
+<td>0</td>
+<td>2</td>
+<td>5</td>
+<td>7</td>
+</tr><tr>
+<td align="left"><span id="MNE"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/22px-Flag_of_Montenegro.svg.png" title="Montenegro" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/33px-Flag_of_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/44px-Flag_of_Montenegro.svg.png 2x" data-file-width="640" data-file-height="320">&nbsp;<a href="/wiki/Montenegro_at_the_Olympics" title="Montenegro at the Olympics">Montenegro</a>&nbsp;<span style="font-size:90%;">(MNE)</span></span></td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>4</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="NAM"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/22px-Flag_of_Namibia.svg.png" title="Namibia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/33px-Flag_of_Namibia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/44px-Flag_of_Namibia.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Namibia_at_the_Olympics" title="Namibia at the Olympics">Namibia</a>&nbsp;<span style="font-size:90%;">(NAM)</span></span></td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>6</td>
+<td>0</td>
+<td>4</td>
+<td>0</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="AHO"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Netherlands_Antilles_%281986-2010%29.svg/22px-Flag_of_the_Netherlands_Antilles_%281986-2010%29.svg.png" title="Netherlands Antilles" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Netherlands_Antilles_%281986-2010%29.svg/33px-Flag_of_the_Netherlands_Antilles_%281986-2010%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Netherlands_Antilles_%281986-2010%29.svg/44px-Flag_of_the_Netherlands_Antilles_%281986-2010%29.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Netherlands_Antilles_at_the_Olympics" title="Netherlands Antilles at the Olympics">Netherlands Antilles</a>&nbsp;<span style="font-size:90%;">(AHO)</span></i></span> <sup class="reference" id="ref_AHOAHO"><a href="#endnote_AHOAHO">[AHO]</a></sup> <sup class="reference" id="ref_IIb"><a href="#endnote_IIb">[I]</a></sup></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>15</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="NIG"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/22px-Flag_of_Niger.svg.png" title="Niger" width="22" height="19" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/33px-Flag_of_Niger.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/44px-Flag_of_Niger.svg.png 2x" data-file-width="700" data-file-height="600">&nbsp;<a href="/wiki/Niger_at_the_Olympics" title="Niger at the Olympics">Niger</a>&nbsp;<span style="font-size:90%;">(NIG)</span></span></td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>11</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="PAR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/22px-Flag_of_Paraguay.svg.png" title="Paraguay" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/33px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/44px-Flag_of_Paraguay.svg.png 2x" data-file-width="600" data-file-height="330">&nbsp;<a href="/wiki/Paraguay_at_the_Olympics" title="Paraguay at the Olympics">Paraguay</a>&nbsp;<span style="font-size:90%;">(PAR)</span></span></td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>12</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="PHI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/22px-Flag_of_the_Philippines.svg.png" title="Philippines" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/33px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/44px-Flag_of_the_Philippines.svg.png 2x" data-file-width="900" data-file-height="450">&nbsp;<a href="/wiki/Philippines_at_the_Olympics" title="Philippines at the Olympics">Philippines</a>&nbsp;<span style="font-size:90%;">(PHI)</span></span></td>
+<td style="background:#f2f2ce;">20</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">7</td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>24</td>
+<td>0</td>
+<td>2</td>
+<td>7</td>
+<td>9</td>
+</tr><tr>
+<td align="left"><span id="PUR"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/22px-Flag_of_Puerto_Rico.svg.png" title="Puerto Rico" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/33px-Flag_of_Puerto_Rico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/44px-Flag_of_Puerto_Rico.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Puerto_Rico_at_the_Olympics" title="Puerto Rico at the Olympics">Puerto Rico</a>&nbsp;<span style="font-size:90%;">(PUR)</span></span></td>
+<td style="background:#f2f2ce;">17</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">6</td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#cedff2;">6</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>23</td>
+<td>0</td>
+<td>2</td>
+<td>6</td>
+<td>8</td>
+</tr><tr>
+<td align="left"><span id="QAT"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/22px-Flag_of_Qatar.svg.png" title="Qatar" width="22" height="9" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/33px-Flag_of_Qatar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/44px-Flag_of_Qatar.svg.png 2x" data-file-width="1400" data-file-height="550">&nbsp;<a href="/wiki/Qatar_at_the_Olympics" title="Qatar at the Olympics">Qatar</a>&nbsp;<span style="font-size:90%;">(QAT)</span></span></td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>8</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="KSA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png" title="Saudi Arabia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/33px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/44px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="750" data-file-height="500">&nbsp;<a href="/wiki/Saudi_Arabia_at_the_Olympics" title="Saudi Arabia at the Olympics">Saudi Arabia</a>&nbsp;<span style="font-size:90%;">(KSA)</span></span></td>
+<td style="background:#f2f2ce;">10</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>10</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr><tr>
+<td align="left"><span id="SEN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/22px-Flag_of_Senegal.svg.png" title="Senegal" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/33px-Flag_of_Senegal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/44px-Flag_of_Senegal.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Senegal_at_the_Olympics" title="Senegal at the Olympics">Senegal</a>&nbsp;<span style="font-size:90%;">(SEN)</span></span></td>
+<td style="background:#f2f2ce;">13</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">5</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>18</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="SIN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/22px-Flag_of_Singapore.svg.png" title="Singapore" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/33px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/44px-Flag_of_Singapore.svg.png 2x" data-file-width="4320" data-file-height="2880">&nbsp;<a href="/wiki/Singapore_at_the_Olympics" title="Singapore at the Olympics">Singapore</a>&nbsp;<span style="font-size:90%;">(SIN)</span></span></td>
+<td style="background:#f2f2ce;">15</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">4</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>15</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>4</td>
+</tr><tr>
+<td align="left"><span id="SRI"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/22px-Flag_of_Sri_Lanka.svg.png" title="Sri Lanka" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/33px-Flag_of_Sri_Lanka.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/44px-Flag_of_Sri_Lanka.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Sri_Lanka_at_the_Olympics" title="Sri Lanka at the Olympics">Sri Lanka</a>&nbsp;<span style="font-size:90%;">(SRI)</span></span> <sup class="reference" id="ref_SRISRI"><a href="#endnote_SRISRI">[SRI]</a></sup></td>
+<td style="background:#f2f2ce;">16</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>16</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="SUD"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/22px-Flag_of_Sudan.svg.png" title="Sudan" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/33px-Flag_of_Sudan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/44px-Flag_of_Sudan.svg.png 2x" data-file-width="600" data-file-height="300">&nbsp;<a href="/wiki/Sudan_at_the_Olympics" title="Sudan at the Olympics">Sudan</a>&nbsp;<span style="font-size:90%;">(SUD)</span></span></td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>11</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="TJK"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/22px-Flag_of_Tajikistan.svg.png" title="Tajikistan" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/33px-Flag_of_Tajikistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/44px-Flag_of_Tajikistan.svg.png 2x" data-file-width="1200" data-file-height="600">&nbsp;<a href="/wiki/Tajikistan_at_the_Olympics" title="Tajikistan at the Olympics">Tajikistan</a>&nbsp;<span style="font-size:90%;">(TJK)</span></span></td>
+<td style="background:#f2f2ce;">5</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#cedff2;">4</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>9</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr><tr>
+<td align="left"><span id="TAN"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/22px-Flag_of_Tanzania.svg.png" title="Tanzania" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/33px-Flag_of_Tanzania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/44px-Flag_of_Tanzania.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Tanzania_at_the_Olympics" title="Tanzania at the Olympics">Tanzania</a>&nbsp;<span style="font-size:90%;">(TAN)</span></span> <sup class="reference" id="ref_TANTAN"><a href="#endnote_TANTAN">[TAN]</a></sup></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>12</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="TOG"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/22px-Flag_of_Togo.svg.png" title="Togo" width="22" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/33px-Flag_of_Togo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/44px-Flag_of_Togo.svg.png 2x" data-file-width="809" data-file-height="500">&nbsp;<a href="/wiki/Togo_at_the_Olympics" title="Togo at the Olympics">Togo</a>&nbsp;<span style="font-size:90%;">(TOG)</span></span></td>
+<td style="background:#f2f2ce;">9</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>10</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="TGA"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/22px-Flag_of_Tonga.svg.png" title="Tonga" width="22" height="11" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/33px-Flag_of_Tonga.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/44px-Flag_of_Tonga.svg.png 2x" data-file-width="960" data-file-height="480">&nbsp;<a href="/wiki/Tonga_at_the_Olympics" title="Tonga at the Olympics">Tonga</a>&nbsp;<span style="font-size:90%;">(TGA)</span></span></td>
+<td style="background:#f2f2ce;">8</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">1</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>9</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="VIE"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/22px-Flag_of_Vietnam.svg.png" title="Vietnam" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/33px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/44px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Vietnam_at_the_Olympics" title="Vietnam at the Olympics">Vietnam</a>&nbsp;<span style="font-size:90%;">(VIE)</span></span></td>
+<td style="background:#f2f2ce;">14</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>14</td>
+<td>0</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+</tr><tr>
+<td align="left"><span id="ISV"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/22px-Flag_of_the_United_States_Virgin_Islands.svg.png" title="Virgin Islands" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/33px-Flag_of_the_United_States_Virgin_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/44px-Flag_of_the_United_States_Virgin_Islands.svg.png 2x" data-file-width="450" data-file-height="300">&nbsp;<a href="/wiki/Virgin_Islands_at_the_Olympics" title="Virgin Islands at the Olympics">Virgin Islands</a>&nbsp;<span style="font-size:90%;">(ISV)</span></span></td>
+<td style="background:#f2f2ce;">11</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#cedff2;">7</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>18</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr><tr>
+<td align="left"><span id="IOP"><i><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/22px-Olympic_flag.svg.png" title="Independent Olympic Participants" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/33px-Olympic_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/44px-Olympic_flag.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Independent_Olympic_Participants_at_the_1992_Summer_Olympics" title="Independent Olympic Participants at the 1992 Summer Olympics">Independent Olympic Participants</a>&nbsp;<span style="font-size:90%;">(IOP)</span></i></span> <sup class="reference" id="ref_IOPIOP"><a href="#endnote_IOPIOP">[IOP]</a></sup></td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#f2f2ce;">3</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+</tr><tr>
+<td align="left"><span id="ZAM"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/22px-Flag_of_Zambia.svg.png" title="Zambia" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/33px-Flag_of_Zambia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/44px-Flag_of_Zambia.svg.png 2x" data-file-width="2100" data-file-height="1400">&nbsp;<a href="/wiki/Zambia_at_the_Olympics" title="Zambia at the Olympics">Zambia</a>&nbsp;<span style="font-size:90%;">(ZAM)</span></span> <sup class="reference" id="ref_ZAMZAM"><a href="#endnote_ZAMZAM">[ZAM]</a></sup></td>
+<td style="background:#f2f2ce;">12</td>
+<td style="background:#f2f2ce;">0</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">1</td>
+<td style="background:#f2f2ce;">2</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td style="background:#cedff2;">0</td>
+<td>12</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+</tr></tbody><tfoot><tr class="sortbottom">
+<th>Totals</th>
+<th>27</th>
+<th>4809</th>
+<th>4775</th>
+<th>5129</th>
+<th>14713</th>
+<th>22</th>
+<th>959</th>
+<th>957</th>
+<th>948</th>
+<th>2864</th>
+<th>49</th>
+<th>5768</th>
+<th>5732</th>
+<th>6077</th>
+<th>17577</th>
+</tr></tfoot></table>
